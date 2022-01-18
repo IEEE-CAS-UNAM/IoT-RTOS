@@ -1,1 +1,1 @@
-Ejercicios del Curso
+En esta carpeta se van a almacenar todos los ejercicios del curso
